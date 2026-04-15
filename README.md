@@ -5,7 +5,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 
 Tools & Technologies
 
-Python – Data loading, cleaning, and exploratory data analysis (EDA)
+Python – Data loading, cleaning, and exploratory data analysis (EDA)\n
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
 PostgreSQL – Writing and executing SQL queries for deeper analysis
 Power BI – Building an interactive dashboard for insights visualization
